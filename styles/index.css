@@ -1,4 +1,24 @@
+/* Common Styles */
 html {
-    background-color: rgb(15, 15, 15);
+    background-color: rgb(25, 25, 25);
     color: rgb(255, 255, 255);
+}
+
+/* Home Page */
+#intro-head {
+    margin: auto;
+    width: 15%;
+    border: 3px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: 375%;
+}
+
+#intro-body {
+    margin: auto;
+    width: 40%;
+    border: 3px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: 125%;
 }
