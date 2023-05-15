@@ -22,3 +22,10 @@ html {
     text-align: center;
     font-size: 125%;
 }
+
+#Appalachian {
+    margin-left: 33.75%;
+    margin-right: 33.75%;
+    border-radius: 42.5%;
+    border: 3px solid green;
+}
