@@ -63,5 +63,25 @@ body {
 
 /* Under Construction */
 .construct {
-    
+    height: 5%;
+    width: 13%;
+    position: absolute;
+    right: 5%;
+    top: 5%;
+    padding-top: 40px;
+    color: yellow;
+    background-color: grey;
+    border: 3px solid green;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    vertical-align: middle;
 }
+
+#inside {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+  }

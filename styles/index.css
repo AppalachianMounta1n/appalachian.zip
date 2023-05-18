@@ -64,7 +64,7 @@ body {
 /* Under Construction */
 .construct {
     height: 5%;
-    width: 10%;
+    width: 13%;
     position: absolute;
     right: 5%;
     top: 5%;
@@ -77,3 +77,11 @@ body {
     align-items:center;
     vertical-align: middle;
 }
+
+#inside {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+  }
